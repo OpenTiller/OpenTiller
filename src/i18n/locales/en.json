@@ -1,0 +1,80 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "settings": "Settings"
+  },
+  "nav": {
+    "roadmap": "Roadmap",
+    "backlog": "Backlog",
+    "settings": "Settings"
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "viewGraph": "Graph",
+    "viewList": "List",
+    "searchTasks": "Search tasks...",
+    "executeAll": "Execute All",
+    "columns": {
+      "initialSetup": "Initial Setup",
+      "wave": "Wave {{number}}",
+      "inProgress": "In Progress",
+      "readyToExecute": "Ready to Execute",
+      "waiting": "Waiting"
+    }
+  },
+  "task": {
+    "status": {
+      "pending": "Pending",
+      "ready": "Ready",
+      "running": "Running",
+      "review": "Review",
+      "completed": "Completed",
+      "failed": "Failed",
+      "cancelled": "Cancelled"
+    },
+    "actions": {
+      "startExecution": "Start Execution",
+      "reviewNow": "Review Now"
+    }
+  },
+  "run": {
+    "status": {
+      "initializing": "Initializing",
+      "running": "Running",
+      "paused": "Paused",
+      "awaitingReview": "Awaiting Review",
+      "approved": "Approved",
+      "merged": "Merged",
+      "failed": "Failed",
+      "cancelled": "Cancelled"
+    }
+  },
+  "sidebar": {
+    "activeTasks": "Active Tasks",
+    "repositories": "Repositories",
+    "readyForReview": "Ready for review"
+  },
+  "apper": {
+    "cycle": "APPER Cycle",
+    "analyze": "Analyze",
+    "prioritize": "Prioritize",
+    "plan": "Plan",
+    "execute": "Execute",
+    "review": "Review"
+  },
+  "backlog": {
+    "title": "Backlog",
+    "comingSoon": "Coming soon..."
+  },
+  "settings": {
+    "title": "Settings",
+    "comingSoon": "Coming soon..."
+  }
+}

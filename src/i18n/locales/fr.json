@@ -1,0 +1,80 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "settings": "Paramètres"
+  },
+  "nav": {
+    "roadmap": "Roadmap",
+    "backlog": "Backlog",
+    "settings": "Paramètres"
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "viewGraph": "Graphe",
+    "viewList": "Liste",
+    "searchTasks": "Rechercher des tâches...",
+    "executeAll": "Tout exécuter",
+    "columns": {
+      "initialSetup": "Configuration initiale",
+      "wave": "Vague {{number}}",
+      "inProgress": "En cours",
+      "readyToExecute": "Prêt à exécuter",
+      "waiting": "En attente"
+    }
+  },
+  "task": {
+    "status": {
+      "pending": "En attente",
+      "ready": "Prêt",
+      "running": "En cours",
+      "review": "À réviser",
+      "completed": "Terminé",
+      "failed": "Échoué",
+      "cancelled": "Annulé"
+    },
+    "actions": {
+      "startExecution": "Démarrer l'exécution",
+      "reviewNow": "Réviser maintenant"
+    }
+  },
+  "run": {
+    "status": {
+      "initializing": "Initialisation",
+      "running": "En cours",
+      "paused": "En pause",
+      "awaitingReview": "En attente de révision",
+      "approved": "Approuvé",
+      "merged": "Fusionné",
+      "failed": "Échoué",
+      "cancelled": "Annulé"
+    }
+  },
+  "sidebar": {
+    "activeTasks": "Tâches actives",
+    "repositories": "Dépôts",
+    "readyForReview": "Prêt pour révision"
+  },
+  "apper": {
+    "cycle": "Cycle APPER",
+    "analyze": "Analyser",
+    "prioritize": "Prioriser",
+    "plan": "Planifier",
+    "execute": "Exécuter",
+    "review": "Réviser"
+  },
+  "backlog": {
+    "title": "Backlog",
+    "comingSoon": "Bientôt disponible..."
+  },
+  "settings": {
+    "title": "Paramètres",
+    "comingSoon": "Bientôt disponible..."
+  }
+}

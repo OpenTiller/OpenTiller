@@ -1,0 +1,80 @@
+{
+  "common": {
+    "loading": "Laden...",
+    "error": "Fehler",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "settings": "Einstellungen"
+  },
+  "nav": {
+    "roadmap": "Roadmap",
+    "backlog": "Backlog",
+    "settings": "Einstellungen"
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "viewGraph": "Graph",
+    "viewList": "Liste",
+    "searchTasks": "Aufgaben suchen...",
+    "executeAll": "Alle ausführen",
+    "columns": {
+      "initialSetup": "Ersteinrichtung",
+      "wave": "Welle {{number}}",
+      "inProgress": "In Bearbeitung",
+      "readyToExecute": "Bereit zur Ausführung",
+      "waiting": "Wartend"
+    }
+  },
+  "task": {
+    "status": {
+      "pending": "Ausstehend",
+      "ready": "Bereit",
+      "running": "Läuft",
+      "review": "Überprüfung",
+      "completed": "Abgeschlossen",
+      "failed": "Fehlgeschlagen",
+      "cancelled": "Abgebrochen"
+    },
+    "actions": {
+      "startExecution": "Ausführung starten",
+      "reviewNow": "Jetzt überprüfen"
+    }
+  },
+  "run": {
+    "status": {
+      "initializing": "Initialisierung",
+      "running": "Läuft",
+      "paused": "Pausiert",
+      "awaitingReview": "Wartet auf Überprüfung",
+      "approved": "Genehmigt",
+      "merged": "Zusammengeführt",
+      "failed": "Fehlgeschlagen",
+      "cancelled": "Abgebrochen"
+    }
+  },
+  "sidebar": {
+    "activeTasks": "Aktive Aufgaben",
+    "repositories": "Repositories",
+    "readyForReview": "Bereit zur Überprüfung"
+  },
+  "apper": {
+    "cycle": "APPER-Zyklus",
+    "analyze": "Analysieren",
+    "prioritize": "Priorisieren",
+    "plan": "Planen",
+    "execute": "Ausführen",
+    "review": "Überprüfen"
+  },
+  "backlog": {
+    "title": "Backlog",
+    "comingSoon": "Demnächst..."
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "comingSoon": "Demnächst..."
+  }
+}

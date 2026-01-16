@@ -1,0 +1,80 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "settings": "Configuración"
+  },
+  "nav": {
+    "roadmap": "Roadmap",
+    "backlog": "Backlog",
+    "settings": "Configuración"
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "viewGraph": "Gráfico",
+    "viewList": "Lista",
+    "searchTasks": "Buscar tareas...",
+    "executeAll": "Ejecutar todo",
+    "columns": {
+      "initialSetup": "Configuración inicial",
+      "wave": "Oleada {{number}}",
+      "inProgress": "En progreso",
+      "readyToExecute": "Listo para ejecutar",
+      "waiting": "Esperando"
+    }
+  },
+  "task": {
+    "status": {
+      "pending": "Pendiente",
+      "ready": "Listo",
+      "running": "Ejecutando",
+      "review": "Revisión",
+      "completed": "Completado",
+      "failed": "Fallido",
+      "cancelled": "Cancelado"
+    },
+    "actions": {
+      "startExecution": "Iniciar ejecución",
+      "reviewNow": "Revisar ahora"
+    }
+  },
+  "run": {
+    "status": {
+      "initializing": "Inicializando",
+      "running": "Ejecutando",
+      "paused": "Pausado",
+      "awaitingReview": "Esperando revisión",
+      "approved": "Aprobado",
+      "merged": "Fusionado",
+      "failed": "Fallido",
+      "cancelled": "Cancelado"
+    }
+  },
+  "sidebar": {
+    "activeTasks": "Tareas activas",
+    "repositories": "Repositorios",
+    "readyForReview": "Listo para revisión"
+  },
+  "apper": {
+    "cycle": "Ciclo APPER",
+    "analyze": "Analizar",
+    "prioritize": "Priorizar",
+    "plan": "Planificar",
+    "execute": "Ejecutar",
+    "review": "Revisar"
+  },
+  "backlog": {
+    "title": "Backlog",
+    "comingSoon": "Próximamente..."
+  },
+  "settings": {
+    "title": "Configuración",
+    "comingSoon": "Próximamente..."
+  }
+}
